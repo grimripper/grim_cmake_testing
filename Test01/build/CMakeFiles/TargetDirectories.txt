@@ -1,0 +1,3 @@
+C:/MyCode/grim_cmake_testing/Test01/build/CMakeFiles/Tutorial.dir
+C:/MyCode/grim_cmake_testing/Test01/build/CMakeFiles/ALL_BUILD.dir
+C:/MyCode/grim_cmake_testing/Test01/build/CMakeFiles/ZERO_CHECK.dir
