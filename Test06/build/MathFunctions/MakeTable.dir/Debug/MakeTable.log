@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/MyCode/grim_cmake_testing/Test06/MathFunctions/CMakeLists.txt
+  CMake does not need to re-run because C:/MyCode/grim_cmake_testing/Test06/build/MathFunctions/CMakeFiles/generate.stamp is up-to-date.
+  MakeTable.cxx
+C:\MyCode\grim_cmake_testing\Test06\MathFunctions\MakeTable.cxx(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  MakeTable.vcxproj -> C:\MyCode\grim_cmake_testing\Test06\build\MathFunctions\Debug\MakeTable.exe
+  MakeTable.vcxproj -> C:/MyCode/grim_cmake_testing/Test06/build/MathFunctions/Debug/MakeTable.pdb (Full PDB)

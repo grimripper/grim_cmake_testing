@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/MyCode/grim_cmake_testing/Test06/MathFunctions/CMakeLists.txt
+  CMake does not need to re-run because C:/MyCode/grim_cmake_testing/Test06/build/MathFunctions/CMakeFiles/generate.stamp is up-to-date.
+  Generating Table.h
+  mysqrt.cxx
+  MathFunctions.vcxproj -> C:\MyCode\grim_cmake_testing\Test06\build\MathFunctions\Debug\MathFunctions.lib
