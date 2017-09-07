@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\MyCode\grim_cmake_testing\Test05\MathFunctions\mysqrt.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\MyCode\grim_cmake_testing\Test05\build\MathFunctions\Table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\MyCode\grim_cmake_testing\Test05\MathFunctions\CMakeLists.txt" />
+    <CustomBuild Include="C:\MyCode\grim_cmake_testing\Test05\build\CMakeFiles\478d2cf7cf877e9a32308e11abce4b51\Table.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BA64EE7C-B480-3152-8DEF-6BFB22E9D772}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D5BD1A2C-F971-3371-91AC-080593DFEF6C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AE0AB3DA-59E1-3C53-BFA7-2F6D1FD0B292}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

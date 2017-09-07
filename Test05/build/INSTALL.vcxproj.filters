@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\MyCode\grim_cmake_testing\Test05\build\CMakeFiles\076667df4bc07e741098070dc37e897c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{AE0AB3DA-59E1-3C53-BFA7-2F6D1FD0B292}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

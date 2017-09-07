@@ -1,0 +1,13 @@
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/Tutorial.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/Nightly.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/Experimental.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/Continuous.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/RUN_TESTS.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/INSTALL.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/ALL_BUILD.dir
+C:/MyCode/grim_cmake_testing/Test05/build/CMakeFiles/ZERO_CHECK.dir
+C:/MyCode/grim_cmake_testing/Test05/build/MathFunctions/CMakeFiles/MakeTable.dir
+C:/MyCode/grim_cmake_testing/Test05/build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/MyCode/grim_cmake_testing/Test05/build/MathFunctions/CMakeFiles/RUN_TESTS.dir
+C:/MyCode/grim_cmake_testing/Test05/build/MathFunctions/CMakeFiles/INSTALL.dir
