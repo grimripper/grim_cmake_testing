@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vthukral/CodeMy/grim_cmake_testing/Test101/array.cpp
+
+/home/vthukral/CodeMy/grim_cmake_testing/Test101/main.cpp
+iostream
+-
+
+/home/vthukral/CodeMy/grim_cmake_testing/Test101/vector.cpp
+

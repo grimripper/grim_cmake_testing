@@ -1,0 +1,1 @@
+/usr/bin/g++-4.9   -O3 -DNDEBUG   CMakeFiles/vector-test.dir/array.cpp.o CMakeFiles/vector-test.dir/vector.cpp.o CMakeFiles/vector-test.dir/main.cpp.o  -o vector-test 
